@@ -34,8 +34,8 @@ export const Hero = () => {
 
         {/* Main heading */}
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in">
-          <span className="text-gradient-primary">Velocity</span>
-          <span className="text-foreground">Forge</span>
+          <span className="text-gradient-primary">Build</span>
+          <span className="text-foreground">WithUs</span>
         </h1>
 
         {/* Slogan */}
